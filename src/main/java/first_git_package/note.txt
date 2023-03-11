@@ -2,3 +2,8 @@
 1. Create a project
 2. Create a GITHUB REPOSITORY
     *go to github
+
+    *git add .
+    *git commit -m
+    *git push
+
